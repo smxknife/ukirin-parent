@@ -93,7 +93,7 @@ JobTrigger触发器，用于触发任务执行，所有的任务都是通过JobT
 
 ### 架构层次
 
-![系统架构图][base64str]
+![系统架构图](./img/ukiriin-job.svg)
 
 #### Trigger层（触发器）
 
